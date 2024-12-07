@@ -1,0 +1,41 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 07 Dec 2024 23:49:40 at https://www.lerepdesawisata.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.lerepdesawisata.com/ -O1 "C:\My Web Sites\Kembanggede" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:56:55	Error: 	"Not Found" (404) at link https://www.lerepdesawisata.com/frontend/img/about.jpg (from https://www.lerepdesawisata.com/frontend/css/style.css)
+23:59:04	Error: 	"Not Found" (404) at link https://www.lerepdesawisata.com/kampung/dfgdfg (from https://www.lerepdesawisata.com/Kampung)
+23:59:04	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.lerepdesawisata.com/Kampung/dfgdfg (from https://www.lerepdesawisata.com/Kampung)
+23:59:04	Error: 	"Not Found" (404) at link https://www.lerepdesawisata.com/frontend/css/owl.video.play.png (from https://www.lerepdesawisata.com/frontend/css/owl.carousel.min.css)
+00:00:02	Error: 	"Bad Request" (400) at link https://www.lerepdesawisata.com/berita/Kunjungan kementrian desa tgl 27-29 September di desa lerep dalam rangka kunker ke tangki air raksasa tws Tiger wolf embung, pasar kuliner embung, kebun durian embung, peternakan sapi Indrokilo (from https://www.lerepdesawisata.com/berita/index/80)
+00:00:02	Error: 	"Bad Request" (400) at link https://www.lerepdesawisata.com/berita/assets/source/WhatsApp Image 2021-09-28 at 18.22.40 (1).jpeg (from https://www.lerepdesawisata.com/berita/index/80)
+00:01:17	Warning: 	Retry after error -4 (Connect Error) at link https://www.lerepdesawisata.com/assets/source/IMG20210401163941_1.jpg (from https://www.lerepdesawisata.com/berita/lerep-berhasil-menerima-penghargaan-dari-sandiaga-uno)
+00:01:17	Warning: 	Retry after error 500 () at link https://www.lerepdesawisata.com/Kampung/dfgdfg (from https://www.lerepdesawisata.com/Kampung)
+00:01:17	Warning: 	Temporary Redirect for https://www.lerepdesawisata.com/statistik/amcharts/
+00:01:17	Warning: 	File has moved from https://www.lerepdesawisata.com/statistik/amcharts/ to https://www.lerepdesawisata.com/
+00:01:17	Error: 	"Not Found" (404) at link https://www.lerepdesawisata.com/statistik/FileSaver.js/FileSaver.min.js (from https://www.amcharts.com/lib/3/plugins/export/export.min.js)
+00:01:49	Warning: 	file not stored in cache due to bogus state (broken size, expected 3673688 got 774200): lerepdesawisata.com/assets/source/300/IMG20210215171149[1].jpg
+00:01:50	Warning: 	file not stored in cache due to bogus state (broken size, expected 1993896 got 711200): lerepdesawisata.com/assets/source/IMG20210305150144.jpg
+00:02:00	Error: 	"Not Found" (404) at link https://www.lerepdesawisata.com/my_error (from https://www.lerepdesawisata.com/berita/index/45)
+00:02:02	Error: 	"Bad Request" (400) at link https://www.lerepdesawisata.com/berita/PASAR KULINER TEMPO DOELOE (PASAR JAJANAN NDESO), SALAH SATU PRIMADONA DESA WISATA LEREP (from https://www.lerepdesawisata.com/berita/index/75)
+00:02:02	Error: 	"Bad Request" (400) at link https://lerepdesawisata.com/assets/source/pelatihanumkm/WhatsApp Image 2021-10-16 at 09.55.25 (1).jpeg (from https://www.lerepdesawisata.com/berita/index/55)
+00:02:02	Warning: 	Retry after error -4 (Incorrect length (774200 Bytes, 3673688 expected)) at link lerepdesawisata.com/assets/source/300/IMG20210215171149[1].jpg (from https://www.lerepdesawisata.com/berita/index/60)
+00:02:03	Warning: 	Retry after error -4 (Incorrect length (711200 Bytes, 1993896 expected)) at link lerepdesawisata.com/assets/source/IMG20210305150144.jpg (from https://www.lerepdesawisata.com/berita/index/60)
+00:08:42	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.lerepdesawisata.com/berita/assets/source/vaksin/WhatsApp Image 2021-10-06 at 17.32.10.jpeg (from https://www.lerepdesawisata.com/berita/index/70)
+00:08:44	Warning: 	Retry after error -4 (Connect Error) at link https://www.lerepdesawisata.com/berita/Pelaksanaan vaksinasi dosis 1 dan 2 sinovac dibalai desa lerep dengan kuota 700 orang (from https://www.lerepdesawisata.com/berita/index/70)
+00:08:46	Error: 	"" (500) after 2 retries at link https://www.lerepdesawisata.com/Kampung/dfgdfg (from https://www.lerepdesawisata.com/Kampung)
+00:08:46	Warning: 	Retry after error -4 (Connect Error) at link localhost:8888/lerep/img/artikel_folder/FotoContent_1699691298.jpg (from https://www.lerepdesawisata.com/berita/belajar-makanan-olahan-pkkdekranasda-kabupaten-sabua-raijua-ntt-kunjungi-desa-lerep)
+00:08:48	Error: 	"Not Found" (404) at link https://www.lerepdesawisata.com/assets/source/Workshop 2.jpg (from https://www.lerepdesawisata.com/berita/Workshop-Dalam-Rangka-Pengembangan-Desa-Wisata-Oleh-Karang-Taruna-Cipto-Wening-Desa-Lerep)
+00:08:48	Error: 	"Not Found" (404) at link https://www.lerepdesawisata.com/assets/source/vaksin/WhatsApp Image 2021-11-12 at 21.58.57.jpeg (from https://www.lerepdesawisata.com/berita/Pelatihan-Batik-ecoprint-Dari-Tim-pengabdian-Masyarakat-diDesa-Wisata-Lerep-Ungaran-Barat)
+00:08:48	Error: 	"Bad Request" (400) at link https://www.lerepdesawisata.com/assets/source/IMG20210215170917_01[1].jpg (from https://www.lerepdesawisata.com/berita/kunjungan-supervisi-dan-asistensi-mabes-polri-ke-deswita-gaess)
+00:08:48	Error: 	"Not Found" (404) at link https://www.lerepdesawisata.com/berita/assets/source/vaksin/WhatsApp Image 2021-10-06 at 17.32.10.jpeg (from https://www.lerepdesawisata.com/berita/index/70)
+00:08:48	Warning: 	Temporary Redirect for https://www.lerepdesawisata.com/berita/Pelaksanaan vaksinasi dosis 1 dan 2 sinovac dibalai desa lerep dengan kuota 700 orang
+00:08:48	Warning: 	File has moved from https://www.lerepdesawisata.com/berita/Pelaksanaan vaksinasi dosis 1 dan 2 sinovac dibalai desa lerep dengan kuota 700 orang to https://www.lerepdesawisata.com/my_error
+00:08:49	Warning: 	Retry after error -4 (Connect Error) at link localhost:8888/lerep/img/artikel_folder/FotoContent_1699691298.jpg (from https://www.lerepdesawisata.com/berita/belajar-makanan-olahan-pkkdekranasda-kabupaten-sabua-raijua-ntt-kunjungi-desa-lerep)
+00:08:51	Error: 	"Connect Error" (-4) after 2 retries at link localhost:8888/lerep/img/artikel_folder/FotoContent_1699691298.jpg (from https://www.lerepdesawisata.com/berita/belajar-makanan-olahan-pkkdekranasda-kabupaten-sabua-raijua-ntt-kunjungi-desa-lerep)
+
+HTTrack Website Copier/3.49-2 mirror complete in 19 minutes 11 seconds : 474 links scanned, 447 files written (70395344 bytes overall) [63684734 bytes received at 55329 bytes/sec], 9810800 bytes transferred using HTTP compression in 208 files, ratio 29%, 3.9 requests per connection
+(15 errors, 15 warnings, 0 messages)

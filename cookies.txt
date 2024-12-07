@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.lerepdesawisata.com	TRUE	/	FALSE	1999999999	desa_lerep_session	790a57985abfe262daad10593e394aa0b4090fac
+
